@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 ## What I'm interested in
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailWindCSS-06B6D4?style=for-the-badge&logo=TailWindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=NextJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailWindCSS-06B6D4?style=for-the-badge&logo=TailWindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
 
 ## kordobby's GitHub
 ![kordobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kordobby&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 

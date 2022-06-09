@@ -3,7 +3,14 @@
 <!--
 **kordobby/kordobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3D7EAA,100:FFE47A&height=300&section=header&text=DOBBY%20IS%20FREE&fontSize=55&fontColor=ffffff&animation=fadeIn)
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

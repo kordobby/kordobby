@@ -13,4 +13,4 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailWindCSS-06B6D4?style=for-the-badge&logo=TailWindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
 
 ## kordobby's GitHub
-![kordobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kordobby&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 
+![kordobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kordobby&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 

@@ -4,7 +4,7 @@
 
 ## MY FAVORITE TECHS
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,redux,ae,ai,ps,pr, figma,git,blende,css,firebase,github &perline=6"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,styledcomponents,redux,ae,ai,ps,pr,figma,git,blende,css,firebase,github &perline=6"/>
 </p>
 
 ## kordobby's GitHub

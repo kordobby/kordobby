@@ -7,14 +7,13 @@
   
 # Hello Wolrd! 
   <br/>
-
 <p herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,git,firebase,github &perline=6"/>
 </p>
 <p herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=styledcomponents,ae,ai,ps,pr,figma,blender,css &perline=6"/>
 </p>
-
+  <br/>  <br/>  <br/>
 ### kordobby's GitHub
 ![kordobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kordobby&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 
 </div>

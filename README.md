@@ -3,7 +3,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:3D7EAA,100:FFE47A&height=300&section=header&text=DOBBY%20IS%20FREE&fontSize=55&fontColor=ffffff&animation=fadeIn) --> -->
 
 <div align="center">
-# Welcome to korDobby's amazon
+#  Welcome to korDobby's amazon
+  <br/>
   
 ## MY FAVORITE TECHS
 <p herf="https://skillicons.dev">

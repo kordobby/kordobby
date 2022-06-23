@@ -1,9 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4568dc,100:b06ab3&height=300&section=header&text=DOBBY%20WORLD&fontSize=55&fontColor=ffffff&animation=fadeIn)
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:3D7EAA,100:FFE47A&height=300&section=header&text=DOBBY%20IS%20FREE&fontSize=55&fontColor=ffffff&animation=fadeIn) --> -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:3D7EAA,100:FFE47A&height=300&section=header&text=DOBBY%20IS%20FREE&fontSize=55&fontColor=ffffff&animation=fadeIn) --> 
+
 
 <div align="center">
-#  Welcome to korDobby's amazon
+  
+# Hello Wolrd! 
   <br/>
   
 ## MY FAVORITE TECHS

@@ -5,7 +5,7 @@
 
 <div align="center">
   
-# Hello Wolrd! 
+# Hello World! 
   <br/>
 <p herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,git,firebase,github &perline=6"/>

@@ -18,6 +18,6 @@
   <br/>  
   <br/>
   
-### kordobby's GitHub
-![kordobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kordobby&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 
+### leetrue GitHub
+![leetree GitHub stats](https://github-readme-stats.vercel.app/api?username=leetrue&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 
 </div>

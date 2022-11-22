@@ -22,6 +22,7 @@
 ### leetrue HangHae99 Diary 
 [유튜브에 기록하는 나의 항해99 ](https://www.youtube.com/channel/UCysmjG6PerP81T1WHPP3D-g)
 
-### leetrue GitHub
+<!-- ### leetrue GitHub
 ![leetree GitHub stats](https://github-readme-stats.vercel.app/api?username=leetrue&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordobby&layout=compact&theme=dark) 
 </div>
+ -->

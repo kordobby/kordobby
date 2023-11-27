@@ -8,7 +8,7 @@
 <div align="center">
   
 # LEETRUE 
-📌 블로그 : [TRUELOG](https://leetrue-log.vercel.app/)
+📌 블로그 : [TRUELOG](https://leetrue.hashnode.dev/)
 <br/>
 <br/>
 ### most interested in

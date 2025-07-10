@@ -13,7 +13,7 @@
 <br/>
 ### most interested in
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,graphql,apollo&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=6"/>
 </p>
 
 <!--   
